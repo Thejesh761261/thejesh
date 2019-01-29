@@ -1,6 +1,6 @@
 body{
 	margin:0;
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Verdana', sans-serif;
 }
 body a{
 	transition: 0.5s all ease;
@@ -82,7 +82,7 @@ letter-spacing: 18px;
 }
 .about p{
 margin:45px 0 0 0;
-color:#888b90;
+color:#ff00ff;
 font-size:18px;
 font-family: 'Lato', sans-serif;
 line-height:1.8em;
@@ -152,7 +152,7 @@ background: url(../images/icons.png) no-repeat 0px -71px;
 }
 
 .my-skills{
-	background: #eeeeee;
+	background: #eeee00;
 	padding: 60px 0;
 }
 .my-skills h3{
@@ -187,7 +187,7 @@ span.circles-text {
 }
 .education{
 padding:60px 0;
-background:#eeeeee;
+background:#eeee00;
 }
 .edu-info h3{
 margin:0;
